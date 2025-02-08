@@ -7,3 +7,8 @@
 ``` python3
 print ("Hello, World. This is some sample code in Python.")
 ```
+
+- [x] Create headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Make a task list
